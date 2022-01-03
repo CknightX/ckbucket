@@ -1,0 +1,14 @@
+{
+    "homepage": "https://joytokey.net/en/",
+    "description": "JoyToKey (or Joy2Key) enables PC game controllers to emulate the keyboard and mouse input",
+    "version": "6.7",
+    "url": "https://joytokey.net/download/JoyToKey_en.zip",
+    "hash": "8a2007f4bfbcd0649da2f45023645473400929ca0bb42732478c77eaa27e9256",
+    "bin": "JoyToKey.exe",
+    "shortcuts": [
+        [
+            "JoyToKey.exe",
+            "JoyToKey"
+        ]
+    ]
+}

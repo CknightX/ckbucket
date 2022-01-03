@@ -1,0 +1,20 @@
+{
+    "homepage": "https://github.com/machengim/oasis",
+    "description": "A self-hosted file server",
+    "license": "MIT",
+    "version": "0.2.3",
+    "url": "https://github.com/machengim/oasis/releases/download/v0.2.3/oasis-v0.2.3-windows_x86_64.zip",
+    "hash": "a45947edbe3c7905d8f98c0fbfc7163f64a66be73d6dad8aad0a5be8e69f8de1",
+    "shortcuts": [
+        [
+            "oasis/oasis.exe",
+            "oasis"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/machengim/oasis"
+    },
+    "autoupdate": {
+        "url": "https://github.com/machengim/oasis/releases/download/v$version/oasis-v$version-windows_x86_64.zip"
+    }
+}
