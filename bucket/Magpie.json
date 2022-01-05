@@ -1,0 +1,20 @@
+{
+    "homepage": "https://github.com/Blinue/Magpie",
+    "description": "Enlarge and display the game window",
+    "license": "GPL-3.0 License",
+    "version": "0.8.0",
+    "url": "https://github.com/Blinue/Magpie/releases/download/v0.8.0/Magpie_v0.8.0.zip",
+    "hash": "90d338dcd6507ce1f3e87beea61e3853ca8c59ce726587b6835fb90fc05bb956",
+    "shortcuts": [
+        [
+            "Magpie.exe",
+            "Magpie"
+        ]
+    ],
+    "checkver": {
+    "github": "https://github.com/Blinue/Magpie"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Blinue/Magpie/releases/download/v$version/Magpie_v$version.zip"
+    }
+}
