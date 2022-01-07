@@ -1,0 +1,13 @@
+{
+    "homepage": "https://mofang.ruanmei.com/",
+    "description": "A temperature monitoring tool separated from RuanMei MoFang",
+    "version": "1.79",
+    "url": "http://ckbucket.scoop:8000/software/tempmon.zip",
+    "hash": "8b03816f1b2efe53cee19b75dc8c131e84dd41434973d6478369b6a966a8efa5",
+    "shortcuts": [
+        [
+            "tempmon.exe",
+            "tempmon"
+        ]
+    ]
+}
